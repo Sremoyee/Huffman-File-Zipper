@@ -1,0 +1,53 @@
+hello, my name is sremoyee bag. 
+this is a file zipper using huffman coding concept.
+thank you
+SREMOYEE BAG
+Kolkata, WB 700028 ∙ (+91) 9874084255 ∙ sremoyeebag@gmail.com ∙ https://www.linkedin.com/in/sremoyee-bag ∙ https://github.com/Sremoyee
+
+Aspiring AI Engineer with a solid foundation in Data Structures and Algorithms, Python, machine learning, and generative AI. Eager to contribute to and build real-world applications with innovative AI solutions and continuously learning cutting-edge technologies.
+
+PROJECTS
+AI-Powered Mental Health Companion (Collaborative Project)
+•	Built a recommendation system using Particle Swarm Optimization (PSO) to assess user mental health and provide personalized improvement suggestions.
+•	Implemented a fitness scoring mechanism based on input patterns and optimized recommendations.
+•	Focused on user input handling, algorithm refinement, and output interpretability.
+Pomodoro Timer (Personal Project)
+•	Developed a productivity timer using Python and Tkinter with customizable time intervals and break alerts.
+•	Enhanced with sound notifications and input validation features for an engaging user experience.
+
+
+
+EDUCATION
+2022-2026	KALINGA INSTITUTE OF INDUSTRIAL TECHNOLOGY – KIIT DU	Odisha, India
+Bachelor in Technology (Hons) Computer Science & engineering
+●	C, C++, Python, Operting Systems, Computer Networks, DBMS, SDLC, DSA, DAA
+
+2009-2021	BHAVAN’S GANGABUX KANORIA VIDYAMANDIR 	West Bengal, India
+●	CBSE Secondary Examination, 10+2 (2021): 95% [PCB + Mathematics]
+●	CBSE Examination (2019):  96% [PCMB]
+
+
+TECHNOLOGIES	
+●	Programming Languages: C, C++, Python, SQL
+●	Libraries: Django, Flask, PyScript
+●	Data Manipulation: Pandas, NumPy
+●	Docker, SQL, AWS, Excel, Git & GitHub, DevOps
+
+CERTIFICATIONS
+●	Google Cloud Arcade Facilitator Cohort 
+●	Introduction to Ethical Hacking - Great Learning Academy
+●	DevOps for Web Development - Devtown
+●	Software Development Life Cycle (SDLC) - Shashi Shekhar
+●	Ethical Hacking - Internz Learn
+●	Corporate Governance - Coursera
+●	Business Ethics – Coursera
+
+ACHIEVEMENYTS
+●	National-level Spell Bee Championship
+●	MUN (Model United Nations) and school-level debater
+●	Distinction in Bharatanatyam Dance (Theory & Practical)
+●	Area-level Drawing Competition Awards
+
+HOBBIES & INTEREST
+●	Guitar & Music, Digital art
+●	Poetry, Cinema & Web series, Documentaries
