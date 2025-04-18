@@ -1,37 +1,23 @@
-# File Zipper using Huffman Coding
+# Huffman File Zipper 🔐📦
 
-A simple file compression and decompression tool using Huffman coding algorithm.
+A fast and efficient file compression tool built using **Huffman Coding**, a Data Structures and Algorithms (DSA) concept. Ideal for educational use or lightweight file archiving via the command line interface (CLI).
 
-## Features
-- Compress any file using Huffman coding
-- Decompress previously compressed files
-- Command-line interface
-- No external dependencies required
+## 🚀 Features
 
-## Usage
-1. Run the script:
-```bash
-python zipper.py
-```
+- 📂 Compress and decompress any file type
+- ⚙️ Uses Huffman Coding for lossless compression
+- 📊 Displays original size, compressed size, and compression ratio
+- 🧠 Efficient memory usage with streaming support (WIP)
+- 🖥️ Command-line interface for ease of use
 
-2. Choose from the following options:
-   - 1: Compress a file
-   - 2: Decompress a file
-   - 3: Exit
+## 🧪 Usage
 
-3. When compressing or decompressing, you'll need to provide:
-   - Input file path
-   - Output file path
+### 📥 Compress a File
 
-## How it works
-The program uses Huffman coding to create optimal variable-length codes for file compression:
-1. Builds a frequency dictionary of bytes in the input file
-2. Creates a Huffman tree based on these frequencies
-3. Generates binary codes for each byte
-4. Compresses/decompresses the file using these codes
+How to run the code : 
+in bash
+python zipper.py compress input.txt output.huff
 
-## Note
-The compression ratio depends on the input file's content. Files with more repeated patterns will achieve better compression.
 
 
 ![alt text](image.png)
