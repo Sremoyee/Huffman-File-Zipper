@@ -19,5 +19,12 @@ in bash
 python zipper.py compress input.txt output.huff
 
 
+Example :
+✅ Compression complete: 'input.txt' → 'output.huff'
+📏 Original size: 10,240 bytes
+📦 Compressed size: 2,301 bytes
+📉 Compression ratio: 0.22
+
+
 
 ![alt text](image.png)
